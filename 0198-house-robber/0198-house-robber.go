@@ -34,3 +34,5 @@ func max(a int, b int) int {
 
     return b
 }
+
+// f(n) = max(nums[n] + f(n - 2), f(n-1)) công thức này gọn hơn
