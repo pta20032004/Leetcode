@@ -8,26 +8,58 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-import java.util.Stack;
+// import java.util.Stack;
+// class Solution {
+//     public ListNode reverseList(ListNode head) {
+//         if (head == null) {
+//             return head;
+//         }
+//         Stack<ListNode> stack = new Stack<>();
+//         ListNode cur = head;
+//         while (cur.next != null) {
+//             stack.push(cur);
+//             ListNode prev = cur;
+//             cur = cur.next;
+//             prev.next = null;
+//         }
+
+//         head = cur;
+//         while (!stack.isEmpty()) {
+//             cur.next = stack.pop();
+//             cur = cur.next;
+//         }
+//         return head;
+//     }
+// }
+
+// Toi uu
 class Solution {
     public ListNode reverseList(ListNode head) {
         if (head == null) {
             return head;
         }
-        Stack<ListNode> stack = new Stack<>();
-        ListNode cur = head;
-        while (cur.next != null) {
-            stack.push(cur);
-            ListNode prev = cur;
-            cur = cur.next;
-            prev.next = null;
+
+        if (head.next == null) {
+            // head.next.next = head;
+            // ListNode temp = head.next.next;
+            // head.next = null;
+            // return temp;
+            return head;
         }
 
-        head = cur;
-        while (!stack.isEmpty()) {
-            cur.next = stack.pop();
-            cur = cur.next;
+        ListNode cur = head.next;
+        ListNode prev = head;
+        ListNode tempHead = head;
+        ListNode future;
+        while (cur != null) {
+            future = cur.next;
+            cur.next = prev;
+            prev = cur;
+            cur = future;
         }
-        return head;
+
+        tempHead.next = null;
+        return prev;
+
     }
 }
