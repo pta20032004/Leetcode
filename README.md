@@ -57,4 +57,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pta20032004/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pta20032004/Leetcode/tree/master/0027-remove-element) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/pta20032004/Leetcode/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/pta20032004/Leetcode/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/pta20032004/Leetcode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/pta20032004/Leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
