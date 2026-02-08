@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pta20032004/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pta20032004/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pta20032004/Leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/pta20032004/Leetcode/tree/master/0053-maximum-subarray) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pta20032004/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pta20032004/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pta20032004/Leetcode/tree/master/0027-remove-element) |
 ## Tree
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/pta20032004/Leetcode/tree/master/0226-invert-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/pta20032004/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
