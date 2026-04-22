@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pta20032004/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/pta20032004/Leetcode/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/pta20032004/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1668-maximum-repeating-substring](https://github.com/pta20032004/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Memoization
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pta20032004/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/pta20032004/Leetcode/tree/master/0125-valid-palindrome) |
+| [1668-maximum-repeating-substring](https://github.com/pta20032004/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/pta20032004/Leetcode/tree/master/0035-search-insert-position) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/pta20032004/Leetcode/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
